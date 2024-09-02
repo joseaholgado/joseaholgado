@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jose Antonio Holgado Bonet</h1>
+<image align="center">![alt text](images/Banner_tecnologico2.png)</image>
 
 <h3 align="center">👨‍💻 Software Developer | Open Source Enthusiast</h3>
-<h4 align="center">🇪🇸 From: Spain</h3>
+<h4 align="center">🇪🇸 From: Spain</h4>
 
 <p align="center">I am passionate about creating innovative and efficient software solutions. I am constantly expanding my skills and looking for opportunities to collaborate on open-source projects and learn from the developer community.</p>
 
