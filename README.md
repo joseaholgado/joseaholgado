@@ -2,7 +2,7 @@
   <img src="images/Banner.png" alt="Banner" />
 </p>
 
-<h2 align="center">Hi, I'm José Antonio 👋</h2>
+<h2 align="center">Hi, I'm Jose Antonio 👋</h2>
 <h3 align="center">Data Engineer &amp; Frontend Developer</h3>
 <p align="center">Python · SQL · Cloud · React · TypeScript</p>
 <p align="center">🇪🇸 Spain</p>
