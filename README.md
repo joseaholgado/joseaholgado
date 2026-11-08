@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Banner_tecnologico2.png" alt="Banner" />
+  <img src="images/Banner.png" alt="Banner" />
 </p>
 
 <h2 align="center">Hi, I'm José Antonio 👋</h2>
